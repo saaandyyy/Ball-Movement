@@ -1,3 +1,12 @@
+#text-style {
+    width: 30%;
+    height: 20%;
+    text-align: left;
+    margin: 5% 0 0 35%;
+    /* background-color: red; */
+}
+
+
 #ball {
     width: 15vw;
     height: 15vw;
